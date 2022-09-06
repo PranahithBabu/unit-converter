@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    margin-top: 5rem;
+}
+
+p {
+    font-weight: bold;
+}
+
+#lp, #vp, #mp {
+    font-weight: initial;
+    font-style: italic;
+}
+
+input {
+    height: 3rem;
+    width: 13rem;
+    text-align: center;
+    font-size: 2rem;
+    box-sizing: none;
+}
+
+button {
+    margin: 1rem;
+    color: white;
+    background-color: green;
+    width: 5rem;
+    height: 3rem;
+    cursor: pointer;
+    text-align: center;
+}
